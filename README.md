@@ -1,1 +1,1 @@
-# Fingerprint-Identification-using-CNN-Convolutional-Neural-Network-
+# Fingerprint-Identification-using-DIP
